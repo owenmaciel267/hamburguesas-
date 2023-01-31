@@ -552,11 +552,13 @@ menu-icono{
         margin-bottom: 30px;
     }
     .footer-img{
+        margin:50px;
+        padding : 50px; 
         width: 100%;
         height: 200px;
     }
     .footer-img img{
-        margin-top: 20%;
+        margin-top: 40%;
         margin-bottom: 0px;
         width: 100px;
     }
