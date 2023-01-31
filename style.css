@@ -426,6 +426,9 @@ menu-icono{
     .menu label{
         display: initial;
     }
+    .menu label img{
+        width: 35px;   
+    }
 
     .menu .navbar{
         position: absolute;
